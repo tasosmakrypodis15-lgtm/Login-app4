@@ -1,9 +1,9 @@
 {
   "name": "Login-app",
   "version": "1.0.0",
-  "main": "login-app.js",
+  "main": "Login-app.js",
   "scripts": {
-    "start": "node login-app.js"
+    "start": "node Login-app.js"
   },
   "dependencies": {
     "express": "^4.18.2",
