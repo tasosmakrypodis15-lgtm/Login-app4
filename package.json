@@ -1,5 +1,5 @@
 {
-  "name": "login-app",
+  "name": "Login-app",
   "version": "1.0.0",
   "main": "login-app.js",
   "scripts": {
